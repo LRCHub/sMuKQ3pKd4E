@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "キュートなカノジョ／covered by 戌亥とこ",
+  "base_artist": "戌亥とこ",
+  "createdAt": "2025-12-01T15:03:53.304775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キュートなカノジョ",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/01_キュートなカノジョ_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キュートなカノジョ (feat. 宵崎奏&東雲絵名&巡音ルカ)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/02_キュートなカノジョ_(feat._宵崎奏&東雲絵名&巡音ルカ)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キュートなカノジョ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_キュートなカノジョ_syudou.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "キュートなカノジョ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_02_キュートなカノジョ_syudou.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "キュートなカノジョ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_03_キュートなカノジョ_syudou.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "キュートなカノジョ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_04_キュートなカノジョ_syudou.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "キュートなカノジョ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_05_キュートなカノジョ_syudou.txt"
+    }
+  ]
+}
